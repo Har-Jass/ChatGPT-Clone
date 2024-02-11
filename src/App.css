@@ -527,7 +527,7 @@
     overflow-y: scroll;
     scrollbar-width: none;
     scroll-behavior: auto;
-    height: 75vh;
+    height: 70vh;
   }
 
   .main-chat-section {
