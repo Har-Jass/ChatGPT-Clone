@@ -523,11 +523,11 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     position: relative;
-    height: 83vh;
     margin-bottom: -2.5rem;
     overflow-y: scroll;
     scrollbar-width: none;
     scroll-behavior: auto;
+    height: 75vh;
   }
 
   .main-chat-section {
